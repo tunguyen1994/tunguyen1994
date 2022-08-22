@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tuan Anh Nguyen
 - 👀 I’m interested in Data Science, Machine Learning and Programming 
 - 🌱 I’m currently learning Computer Science at Algoma University
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning
+- 💞️ I’m looking to collaborate on Data Analyst, Data Science, Machine Learning
 - 📫 Please contact me by email: tuananhnguyen1994@outlook.com
 
 <!---
